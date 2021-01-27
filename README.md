@@ -7,4 +7,4 @@ git clone --branch grub-2.04 https://git.savannah.gnu.org/git/grub.git
 cd grub/  
 patch -p1 < ../grub-mod-setup_var/setup_var.patch  
 ```  
-And compile by https://github.com/datasone/grub-mod-setup_var#build-note
+And compile by https://github.com/datasone/grub-mod-setup_var#build-notes
